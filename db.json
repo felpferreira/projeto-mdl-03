@@ -1,0 +1,72 @@
+{
+    "filmes": [
+        {
+            "titulo": "Fulano",
+            "ano": 2000,
+            "diretor": "joao papa",
+            "id": 1
+        },
+        {
+            "titulo": "animais fantasticos",
+            "ano": 2018,
+            "diretor": "David Yates",
+            "id": 2
+        },
+        {
+            "titulo": "velozes e furiosos",
+            "ano": 2006,
+            "diretor": "rob cohen",
+            "id": 3
+        },
+        {
+            "titulo":"O pequenino",
+            "ano":2000,
+            "diretor":"Keenen Ivory Wayans"
+        }
+    ],
+    "cinemas": [
+        {
+        "nome": "Cinemark 1",
+        "local": "Rio de Janeiro",
+        "id": 1
+        },
+        {
+        "nome": "Cinemark 2",
+        "local": "dubai",
+        "id": 2
+        },
+        {
+        "nome": "Cinemark 3",
+        "local": "Belo Horizonte",
+        "id": 3
+        },
+        {
+            "nome":"cinemark 4",
+            "local":"minas gerais",
+            "id":4 
+        }
+    ],
+    "ingressos": [
+        {
+        "nome": "ingresso inteira ",
+        "preço": "34,00",
+        "id": 1
+        },
+        {
+        "nome": "ingressos meia",
+        "preço": "20,00",
+        "id": 2
+        },
+        {
+        "nome": "ingresso prioridade",
+        "preço": "25,00",
+        "id": 3
+        },
+        {
+            "nome":"cupom",
+            "preço":"codigo no caixa",
+            "id":4 
+        }
+    ]
+    
+}
